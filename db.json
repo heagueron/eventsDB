@@ -1,0 +1,56 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title" : "Amanecer Gaitero",
+            "description" : "Amanecer gaitero 2019",
+            "date" : "2019-11-17",
+            "time" : "07:00 pm",
+            "duration" : "12",
+            "place" : "Circulo Militar de Maracaibo",
+            "presenter" :  "Circulo Militar de Maracaibo",
+            "cover" : "200.000",
+            "note" : "Rifas y premios",
+            "category" : "shows musicales",
+            "maxGuests" : 2000,
+            "minGuests" : 200,
+            "guests" : 300,
+            "poster" : "amanecer.jpg"
+        },
+        {
+            "id": 2,
+            "title" : "Final Basquet Vzla",
+            "description" : "Final Basquet Vzla 2019",
+            "date" : "2019-12-17",
+            "time" : "07:00 pm",
+            "duration" : "3",
+            "place" : "Plaza de Toros  de Maracaibo",
+            "presenter" :  "Pancho Ferrer",
+            "cover" : "200.000",
+            "note" : "Rifas y premios",
+            "category" : "deportes",
+            "maxGuests" : 5000,
+            "minGuests" : 200,
+            "guests" : 400,
+            "poster" : "basquet.jpg"
+        },
+        {
+            "id": 3,
+            "title" : "Scout Meeting Vzla",
+            "description" : "Scout Meeting Vzla Vzla 2019",
+            "date" : "2019-12-22",
+            "time" : "07:00 am",
+            "duration" : "6",
+            "place" : "Plaza Valencia",
+            "presenter" :  "Pancho Vazquez",
+            "cover" : 0,
+            "note" : "Rifas y premios",
+            "category" : "sociales",
+            "maxGuests" : 1000,
+            "minGuests" : 10,
+            "guests" : 12,
+            "poster" : "scout.jpg"
+        }
+    ]
+}
+ 
